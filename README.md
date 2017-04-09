@@ -1,2 +1,2 @@
 # algorithian
-this is a project aimed to virtualize your python program.
+this is a project aiming to virtualize your python program.
